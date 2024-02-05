@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  SUMCIKLESs.cpp
+F:\Системное программирование\SUMCIKLESs\SUMCIKLESs\SUMCIKLESs.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SUMCIKLESs.vcxproj -> F:\Системное программирование\SUMCIKLESs\Debug\SUMCIKLESs.exe
